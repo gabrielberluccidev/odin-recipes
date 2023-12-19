@@ -1,9 +1,11 @@
+* {
+  background-color: #0d012e;
+}
 body {
   font-family: "Times New Roman";
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #0d012e;
   text-align: center;
 }
 
