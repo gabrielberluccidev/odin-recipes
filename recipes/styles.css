@@ -1,0 +1,24 @@
+* {
+  font-family: "Times New Roman";
+  text-align: center;
+  background-color: #0d012e;
+}
+
+h1,
+h2,
+p,
+li {
+  color: white;
+}
+
+ol li {
+  text-align: start;
+}
+ul li {
+  text-align: start;
+}
+
+ul,
+ol {
+  display: inline-block;
+}
